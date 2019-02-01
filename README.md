@@ -1,3 +1,3 @@
-# this is an asset pack
+# this is a general surviv art directory
 
 contribs only!!111
