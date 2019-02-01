@@ -1,3 +1,3 @@
 # this is a general surviv art directory
 
-dab
+art is categorized by type, then split into folders for each user. only change your own folders, please!
